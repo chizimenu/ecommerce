@@ -13,18 +13,18 @@ The goal of the analysis is to determine
 
 # Data Analysis Results
 
-- - Highest selling product of business: **2GB Graphic Card**
-- - Peak Selling month: **March**
-- - State code with highest number of customers: **MH**
-- - State code with least number of customers: **AN**
+- Highest selling product of business: **2GB Graphic Card**
+- Peak Selling month: **March**
+- State code with highest number of customers: **MH**
+- State code with least number of customers: **AN**
 
 # Development Environment
 
 - **Programming Language**: R
 - **Libraries:**
-- - Tidyverse
-- - Lubridate
-- - Openxlsx
+- Tidyverse
+- Lubridate
+- -Openxlsx
 
 - **Development Environment:** Visual Studio Code
 
